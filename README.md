@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AJTechNinja
 - 👀 I’m interested in game and web development
-- 🌱 I’m currently learning C+ and pyhton
+- 🌱 I’m currently learning C+ and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me it.jancar@gmail.com
 - 😄 Pronouns: she/her
